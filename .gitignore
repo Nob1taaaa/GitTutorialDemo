@@ -1,4 +1,4 @@
-*.log
+*.log g
 /dir/
 static/dir
 sdf
